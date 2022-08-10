@@ -8,3 +8,9 @@ ________________________________________________________________________________
 2) Humming Code
 
 3) Bit Stuffing Code
+
+
+PACKET TRACER Work ->
+
+1) Communication with single router
+2) Commincation with 2 routers
